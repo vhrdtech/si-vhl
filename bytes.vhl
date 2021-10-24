@@ -1,0 +1,8 @@
+unit Byte = [1, "B"];
+
+unit Ki = [1024];
+unit Mi = [1024 * Ki];
+unit Gi = [1024 * Mi];
+
+unit Frame = [1];
+unit Packet = [1];
